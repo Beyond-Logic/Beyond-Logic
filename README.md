@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Beyond-Logic
+<!--- - 👋 Hi, I’m @Beyond-Logic
 - 👀 I’m interested in A.I, Machine Learning, Space Exploration, Discovering Intelligent Life...
 -  I like to play the game of chess
 - 💞️ I’m looking to collaborate/work/freelance/remote on ReactJS related job...
 - 📫 How to reach me ... twitter @_beyond_logic
+--->
+
+Software Engineer with a passion for frontend development who is looking for a challenging experience that will aid in the improvement of current skills and development of new ones.
 
 <!---
 Beyond-Logic/Beyond-Logic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
