@@ -16,6 +16,9 @@
  
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Beyond-Logic&style=flat-square&color=blue" alt=""/>
+
+
 👋 Hi, I’m Edema Ero,
 A Software Engineer with a passion for frontend development who is looking for a challenging experience that will aid in the improvement of current skills and development of new ones.
 
