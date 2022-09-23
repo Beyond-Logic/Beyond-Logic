@@ -34,7 +34,7 @@ A Software Engineer with a passion for frontend development who is looking for a
 <br />
 My Stats
 <br />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Beyond-Logic&theme=dark&background=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Beyond-Logic&theme=light&background=ffffff)](https://git.io/streak-stats)
 
 
 
