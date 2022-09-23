@@ -5,6 +5,10 @@
 - 📫 How to reach me ... twitter @_beyond_logic
 --->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 👋 Hi, I’m Edema Ero,
 A Software Engineer with a passion for frontend development who is looking for a challenging experience that will aid in the improvement of current skills and development of new ones.
 
