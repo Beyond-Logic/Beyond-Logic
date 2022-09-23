@@ -17,10 +17,10 @@
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Beyond-Logic&style=flat-square&color=blue" alt=""/></div>
 
+<br>
 
-
-👋 Hi, I’m Edema Ero,
-A Software Engineer with a passion for frontend development who is looking for a challenging experience that will aid in the improvement of current skills and development of new ones.
+<div algin="center">👋 Hi, I’m Edema Ero,
+A Software Engineer with a passion for frontend development who is looking for a challenging experience that will aid in the improvement of current skills and development of new ones.</div>
 
 <!---
 Beyond-Logic/Beyond-Logic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
