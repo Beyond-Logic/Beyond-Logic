@@ -36,6 +36,9 @@ A Software Engineer with a passion for frontend development who is looking for a
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Beyond-Logic&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beyond-Logic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 Beyond-Logic/Beyond-Logic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
