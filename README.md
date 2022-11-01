@@ -38,6 +38,8 @@ A Software Engineer with a passion for frontend development who is looking for a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beyond-Logic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+#Portfolio: https://edemaero.netlify.app/
+
 
 
 <!---
