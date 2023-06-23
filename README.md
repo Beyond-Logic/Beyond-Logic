@@ -20,7 +20,8 @@
 <br>
 
 <div algin="center">👋 Hi, I’m Edema Ero,
-A Software Engineer with a passion for frontend development who is looking for a challenging experience that will aid in the improvement of current skills and development of new ones.</div>
+Software Engineer with a passion for Frontend development. Proven ability to create and deliver solutions that meets goals and objectives tied to business and technology performance. Comfortable working with a wide range of platforms  and environments.
+</div>
 <br />
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
