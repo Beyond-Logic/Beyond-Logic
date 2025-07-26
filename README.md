@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-I'm a **Frontend Engineer** with 4+ years of experience building clean, performant, and accessible interfaces — using tools like **React**, **Next.js**, and **Tailwind CSS**. I’m passionate about user experience, design systems, and turning complex logic into elegant UI.
+I'm a **Frontend Engineer** with 5+ years of experience building clean, performant, and accessible interfaces — using tools like **React**, **Next.js**, and **Tailwind CSS**. I’m passionate about user experience, design systems, and turning complex logic into elegant UI.
 
 - 💼 Looking for **remote** opportunities (contract/full-time)
 - 🚀 Co-founder of [WadMaster](https://www.wadmaster.com) & [Lynka](https://lynka.app)
