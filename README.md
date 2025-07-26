@@ -24,7 +24,7 @@ I'm a **Frontend Engineer** with 5+ years of experience building clean, performa
 
 - 💼 Looking for **remote** opportunities (contract/full-time)
 - 🚀 Co-founder of <a href="https://www.wadmaster.com" target="_blank">WadMaster</a> & <a href="https://lynka.app" target="_blank">Lynka</a>
-- 💬 Ask me about: React, TypeScript, Prisma, Node.js, and building full-stack apps
+- 💬 Ask me about: Javascript, React, TypeScript, PostgreSQL, Prisma, and building full-stack apps powered entirely by Next.js
 - 📬 Reach me: edemaero@gmail.com | [LinkedIn](https://linkedin.com/in/edemaero)
 
 ---
@@ -39,7 +39,6 @@ I'm a **Frontend Engineer** with 5+ years of experience building clean, performa
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" title="Next.js" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" title="Tailwind CSS" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="40" height="40" title="Prisma" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" title="Git" />
 </div>
