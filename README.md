@@ -22,11 +22,10 @@
 
 I'm a **Frontend Engineer** with 5+ years of experience building clean, performant, and accessible interfaces — using tools like **React**, **Next.js**, and **Tailwind CSS**. I’m passionate about user experience, design systems, and turning complex logic into elegant UI.
 
-- 🧑‍💻 Self-taught engineer undergoing professional training & certifications  
-- 💼 Looking for **remote** opportunities (contract/full-time)  
-- 🚀 Co-founder of [WadMaster](https://www.wadmaster.com){:target="_blank"} & [Lynka](https://lynka.app){:target="_blank"}  
-- 💬 Ask me about: React, TypeScript, Prisma, Node.js, and building full-stack apps  
-- 📬 Reach me: edemaero@gmail.com | [LinkedIn](https://linkedin.com/in/edemaero){:target="_blank"}
+- 💼 Looking for **remote** opportunities (contract/full-time)
+- 🚀 Co-founder of <a href="https://www.wadmaster.com" target="_blank">WadMaster</a> & <a href="https://lynka.app" target="_blank">Lynka</a>
+- 💬 Ask me about: React, TypeScript, Prisma, Node.js, and building full-stack apps
+- 📬 Reach me: edemaero@gmail.com | [LinkedIn](https://linkedin.com/in/edemaero)
 
 ---
 
