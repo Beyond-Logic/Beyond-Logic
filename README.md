@@ -5,13 +5,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/edemaero/" target="_blank">
+  <a href="https://www.linkedin.com/in/edemaero/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/_beyond_logic" target="_blank">
+  <a href="https://twitter.com/_beyond_logic" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://edemaero.netlify.app" target="_blank">
+  <a href="https://edemaero.netlify.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
@@ -22,10 +22,11 @@
 
 I'm a **Frontend Engineer** with 5+ years of experience building clean, performant, and accessible interfaces — using tools like **React**, **Next.js**, and **Tailwind CSS**. I’m passionate about user experience, design systems, and turning complex logic into elegant UI.
 
-- 💼 Looking for **remote** opportunities (contract/full-time)
-- 🚀 Co-founder of [WadMaster](https://www.wadmaster.com) & [Lynka](https://lynka.app)
-- 💬 Ask me about: React, TypeScript, Prisma, Node.js, and building full-stack apps
-- 📬 Reach me: edemaero@gmail.com | [LinkedIn](https://linkedin.com/in/edemaero)
+- 🧑‍💻 Self-taught engineer undergoing professional training & certifications  
+- 💼 Looking for **remote** opportunities (contract/full-time)  
+- 🚀 Co-founder of [WadMaster](https://www.wadmaster.com){:target="_blank"} & [Lynka](https://lynka.app){:target="_blank"}  
+- 💬 Ask me about: React, TypeScript, Prisma, Node.js, and building full-stack apps  
+- 📬 Reach me: edemaero@gmail.com | [LinkedIn](https://linkedin.com/in/edemaero){:target="_blank"}
 
 ---
 
@@ -58,10 +59,10 @@ I'm a **Frontend Engineer** with 5+ years of experience building clean, performa
 
 ### 🔗 Featured Projects
 
-- 🚀 **[Lynka](https://lynka.app)** – Link-in-bio SaaS for creators with analytics and gated content
-- 📊 **[WadMaster](https://www.wadmaster.com)** – Invoicing + expense tracking for freelancers and agencies
+- 🚀 <a href="https://lynka.app" target="_blank" rel="noopener noreferrer">**Lynka**</a> – Link-in-bio SaaS for creators with analytics and gated content  
+- 📊 <a href="https://www.wadmaster.com" target="_blank" rel="noopener noreferrer">**WadMaster**</a> – Invoicing + expense tracking for freelancers and agencies
 
 ---
 
-> *“Your job is not to build apps. Your job is to solve problems with code.”* – Let’s connect and build something impactful.
-
+> *“I don’t just build apps — I solve real problems with clean, thoughtful code.”*  
+Let’s connect and build something impactful.
