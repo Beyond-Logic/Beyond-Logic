@@ -24,7 +24,7 @@ I'm a **Frontend Engineer** with 5+ years of experience building clean, performa
 
 - 💼 Looking for **remote** opportunities (contract/full-time)
 - 🚀 Co-founder of <a href="https://www.wadmaster.com" target="_blank">WadMaster</a> & <a href="https://lynka.app" target="_blank">Lynka</a>
-- 💬 Ask me about: Javascript, React, TypeScript, PostgreSQL, Prisma, and building full-stack apps powered entirely by Next.js
+- 💬 Ask me about: Javascript, React, TypeScript, PostgreSQL, Prisma, Supabase and building full-stack apps powered entirely by Next.js
 - 📬 Reach me: edemaero@gmail.com | [LinkedIn](https://linkedin.com/in/edemaero)
 
 ---
