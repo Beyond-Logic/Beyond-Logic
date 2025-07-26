@@ -40,7 +40,10 @@ I'm a **Frontend Engineer** with 5+ years of experience building clean, performa
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" title="Next.js" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" title="Tailwind CSS" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="40" height="40" title="Prisma" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="40" height="40" title="Supabase" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQ" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" title="Git" />
+  
 </div>
 
 ---
