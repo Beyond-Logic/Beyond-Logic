@@ -25,7 +25,6 @@ I'm a **Frontend Engineer** with 4+ years of experience building clean, performa
 - 💼 Looking for **remote** opportunities (contract/full-time)
 - 🚀 Co-founder of [WadMaster](https://www.wadmaster.com) & [Lynka](https://lynka.app)
 - 💬 Ask me about: React, TypeScript, Prisma, Node.js, and building full-stack apps
-- 🌍 Open-source contributor ([Outreachy alum](https://www.outreachy.org/alums/))
 - 📬 Reach me: edemaero@gmail.com | [LinkedIn](https://linkedin.com/in/edemaero)
 
 ---
@@ -62,7 +61,6 @@ I'm a **Frontend Engineer** with 4+ years of experience building clean, performa
 
 - 🚀 **[Lynka](https://lynka.app)** – Link-in-bio SaaS for creators with analytics and gated content
 - 📊 **[WadMaster](https://www.wadmaster.com)** – Invoicing + expense tracking for freelancers and agencies
-- 🔒 **Secure OTP Auth** – [Code](https://github.com/Beyond-Logic/secure-otp-auth) for email verification with hashed OTPs and Prisma
 
 ---
 
